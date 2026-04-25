@@ -1,12 +1,12 @@
 # 🏛️ Architect Challenges: Expert Backend Solutions
 
-![Architect Challenges Hero Banner](/home/raven/.gemini/antigravity/brain/0e34cd78-0977-463f-ad0b-5adbc09a1bac/architect_challenges_hero_banner_1777060888531.png)
+![Architect Challenges Hero Banner](./assets/architect_challenges_hero_banner_1777060888531.png)
 
 Architect Challenges is a curated collection of high-level coding challenges and architectural problems used by top-tier tech companies globally. This repository serves as a master reference for backend engineers aiming to build scalable, fault-tolerant, and performant systems.
 
 ## 🌐 Live Demo
-- **Live Solution Portal**: [https://saanvirajput.github.io/architect-backend-challenges/](https://saanvirajput.github.io/architect-backend-challenges/)
 
+- **Live Solution Portal**: [https://saanvirajput.github.io/architect-backend-challenges/](https://saanvirajput.github.io/architect-backend-challenges/)
 
 ## 🏗️ Knowledge Roadmap
 
